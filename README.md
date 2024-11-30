@@ -1,15 +1,11 @@
 # vite js 
 
 
-Unrestricted directory traversal with @fs in vite - js 
+## Unrestricted directory traversal with @fs in vite - js 
 
 
-Read full exploit here - 
+Read full exploit here - https://github.com/vitejs/vite/issues/8498
 
-
-````
-https://github.com/vitejs/vite/issues/8498
-````
 
 ``
 chmod 777 exploit.sh
